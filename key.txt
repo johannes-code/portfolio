@@ -1,0 +1,2 @@
+assets => locales her står informasjonen som kommer på siden lagret i json format, for hvert språk
+
