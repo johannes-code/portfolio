@@ -5,6 +5,7 @@ const plugins = {
     copy: require("copy-webpack-plugin"),
     json: require("json-minimizer-webpack-plugin")
 }
+console.log("plugins");
 
 module.exports = {
     entry: {
